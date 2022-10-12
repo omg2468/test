@@ -1,0 +1,8 @@
+h1 {font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*dokvrw*_ga*NDAyMzk0Mjc4MC4xNjY0OTMxNjkw*_ga_3LRZM6TM9L*MTY2NTQ3MjA0MC4zNS4xLjE2NjU0NzIwOTUuNS4wLjA);
+    background-repeat: no-repeat;}
+span {color: blue;
+    font-weight: bold;}
